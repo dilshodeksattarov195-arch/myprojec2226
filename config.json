@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterualculate",
+        "uuid": 238182,
+        "checksum": "nwd8s"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
